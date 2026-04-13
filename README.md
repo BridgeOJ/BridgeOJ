@@ -2,6 +2,15 @@ Hi, I'm Ollie :)
 
 
 
+hi, i’m anne :-)
+      
+      a student from singapore, pursuing MEng Design Engineering at Imperial
+      College London's Dyson School of Design Engineering.
+     
+⚘ ᠂ ⚘ reach me
+
+      linkedin      = linkedin.com/in/anne-lee-han
+
 
 <!--
 **BridgeOJ/BridgeOJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
