@@ -12,7 +12,7 @@
 
 <img width="26" height="405" alt="C_Logo" src="https://github.com/user-attachments/assets/ae5ebe93-b8dd-47b3-970a-4188e96a741a" />
 <img width="26" height="2161" alt="ISO_C++_Logo svg" src="https://github.com/user-attachments/assets/620d5b7b-a77d-45d9-a385-6d2d551ed5f7" />
-<img width="326" height="3840" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/4c83fb5f-9263-4109-a823-d5c29d48d49f" />
+<img width="26" height="3840" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/4c83fb5f-9263-4109-a823-d5c29d48d49f" />
 <img width="26" height="1280" alt="CSS3_logo svg" src="https://github.com/user-attachments/assets/0ead48e1-554a-4ea9-9197-fd3f07bd0f4f" />
 <img width="26" height="1234" alt="HTML" src="https://github.com/user-attachments/assets/ed8c1a53-5c96-4730-8956-f37e99c91f9e" />
 
