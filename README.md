@@ -1,6 +1,7 @@
 
       Hi, I'm Ollie :)
-      a student from London, pursuing MEng Design Engineering at Imperial
+      
+      a student from London, pursuing MRes Design Engineering Research at Imperial
       College London's Dyson School of Design Engineering.
 
 
