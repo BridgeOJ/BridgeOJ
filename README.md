@@ -4,6 +4,9 @@
       a student from London, pursuing MRes Design Engineering Research at Imperial
       College London's Dyson School of Design Engineering.
 
+      currently looking at recycling methods for copper and silver from PV 
+      waste - Interested in software, electrical, and chemical 
+
 
 
 <!--
