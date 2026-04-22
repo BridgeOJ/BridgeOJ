@@ -18,27 +18,13 @@
 <img  height="40" alt="CSS3_logo svg" src="https://github.com/user-attachments/assets/9438ef17-d3ed-4893-be5b-f8b4622458ee" />
 <img  height="40" alt="HTML" src="https://github.com/user-attachments/assets/da10e269-034c-4784-a3df-8ac5a1924dd1" />
 <img  height="40" alt="JS2" src="https://github.com/user-attachments/assets/04da5058-2a72-4242-b887-03b797721e83" />
-
-
-
-
-
-<!--
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
--->
 <br />
 <br />
 
 ### Softwares + Tools:
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/5d1beaca-055f-4e82-9ded-00ad62e56e42" height="40" style="margin-right:100000px;"/>
+  <img src="https://github.com/user-attachments/assets/5d1beaca-055f-4e82-9ded-00ad62e56e42" height="40" />&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/ddbfd71f-7baa-4d90-b7bd-9bb7d16082a6" height="40"style="margin-right:10px;"/>
   <img src="https://github.com/user-attachments/assets/2e18eaa4-7986-4cc0-b1ba-e13361bc515a" height="40"style="margin-right:10px;"/>
   <img src="https://github.com/user-attachments/assets/8c6596ec-864e-470e-839b-4e37b69c8f0d" height="40"style="margin-right:10px;"/>
