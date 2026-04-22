@@ -5,7 +5,7 @@
       College London's Dyson School of Design Engineering.
 
       currently looking at recycling methods for copper and silver from PV 
-      waste - Interested in software, electrical, and chemical 
+      waste - Interested in software, electrical, and chemical engineering.
 
 
 ### Languages:
