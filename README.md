@@ -6,7 +6,7 @@
 
       currently looking at recycling methods for copper and silver from PV 
       waste - Interested in software, electrical, and chemical engineering.
-      see my portfolio [here](Portfolio)
+      [View my Portfolio](https://github.com/BridgeOJ/Portfolio)
 
 ### Languages:
 <!--
