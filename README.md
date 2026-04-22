@@ -17,7 +17,8 @@
 <img  height="40" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/4c83fb5f-9263-4109-a823-d5c29d48d49f" />
 <img  height="40" alt="CSS3_logo svg" src="https://github.com/user-attachments/assets/9438ef17-d3ed-4893-be5b-f8b4622458ee" />
 <img  height="40" alt="HTML" src="https://github.com/user-attachments/assets/da10e269-034c-4784-a3df-8ac5a1924dd1" />
-<img  height="40" alt="JS2" src="https://github.com/user-attachments/assets/30ae2df6-b6db-4a6d-9695-93088c686c64" />
+<img  height="40" alt="JS2" src="https://github.com/user-attachments/assets/04da5058-2a72-4242-b887-03b797721e83" />
+
 
 
 
