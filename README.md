@@ -31,13 +31,13 @@
 ### Softwares + Tools:
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/5d1beaca-055f-4e82-9ded-00ad62e56e42" height="60"/>
-  <img src="https://github.com/user-attachments/assets/ddbfd71f-7baa-4d90-b7bd-9bb7d16082a6" height="60"/>
-  <img src="https://github.com/user-attachments/assets/2e18eaa4-7986-4cc0-b1ba-e13361bc515a" height="60"/>
-  <img src="https://github.com/user-attachments/assets/8c6596ec-864e-470e-839b-4e37b69c8f0d" height="60"/>
-  <img src="https://github.com/user-attachments/assets/a553969c-bb31-45b7-8384-c034fd420709" height="60"/>
-  <img src="https://github.com/user-attachments/assets/663aa002-e7a0-4fda-894d-12aeef4d1178" height="60"/>
-  <img src="https://github.com/user-attachments/assets/180b51ad-428b-40a8-9951-4f71942b3f71" height="60"/>
+  <img src="https://github.com/user-attachments/assets/5d1beaca-055f-4e82-9ded-00ad62e56e42" height="40"style="margin-right:10px;"/>
+  <img src="https://github.com/user-attachments/assets/ddbfd71f-7baa-4d90-b7bd-9bb7d16082a6" height="40"style="margin-right:10px;"/>
+  <img src="https://github.com/user-attachments/assets/2e18eaa4-7986-4cc0-b1ba-e13361bc515a" height="40"style="margin-right:10px;"/>
+  <img src="https://github.com/user-attachments/assets/8c6596ec-864e-470e-839b-4e37b69c8f0d" height="40"style="margin-right:10px;"/>
+  <img src="https://github.com/user-attachments/assets/a553969c-bb31-45b7-8384-c034fd420709" height="40"style="margin-right:10px;"/>
+  <img src="https://github.com/user-attachments/assets/663aa002-e7a0-4fda-894d-12aeef4d1178" height="40"style="margin-right:10px;"/>
+  <img src="https://github.com/user-attachments/assets/180b51ad-428b-40a8-9951-4f71942b3f71" height="40"style="margin-right:10px;"/>
 </p>
 
 
