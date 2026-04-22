@@ -4,7 +4,7 @@
       a student from London, pursuing MRes Design Engineering Research at Imperial
       College London's Dyson School of Design Engineering.
 
-      currently looking at recycling methods for copper and silver from PV 
+      Currently looking at recycling methods for copper and silver from PV 
       waste - Interested in software, electrical, and chemical engineering.
 
 ## 📁 My Work
@@ -15,9 +15,10 @@
 <img  height="40" alt="C_Logo" src="https://github.com/user-attachments/assets/ae5ebe93-b8dd-47b3-970a-4188e96a741a" />
 <img  height="40" alt="ISO_C++_Logo svg" src="https://github.com/user-attachments/assets/620d5b7b-a77d-45d9-a385-6d2d551ed5f7" />
 <img  height="40" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/4c83fb5f-9263-4109-a823-d5c29d48d49f" />
-<img  height="40" alt="HTML2" src="https://github.com/user-attachments/assets/32969e42-422f-449d-9547-987748b06464" />
-<img  height="40" alt="CSS3" src="https://github.com/user-attachments/assets/80d9bb64-35f4-4715-aa58-738499229fd3" />
-<img  height="40" alt="JS2" src="https://github.com/user-attachments/assets/6496da9b-4173-4d78-b792-7dd07f7ab719" />
+<img  height="40" alt="CSS3_logo svg" src="https://github.com/user-attachments/assets/9438ef17-d3ed-4893-be5b-f8b4622458ee" />
+<img  height="40" alt="HTML" src="https://github.com/user-attachments/assets/da10e269-034c-4784-a3df-8ac5a1924dd1" />
+<img  height="40" alt="JS2" src="https://github.com/user-attachments/assets/30ae2df6-b6db-4a6d-9695-93088c686c64" />
+
 
 
 
