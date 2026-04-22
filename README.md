@@ -24,7 +24,7 @@
 ### Softwares + Tools:
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/5d1beaca-055f-4e82-9ded-00ad62e56e42" height="40" />&nbsp;;
+  <img src="https://github.com/user-attachments/assets/5d1beaca-055f-4e82-9ded-00ad62e56e42" height="40" />&nbsp;
   <img src="https://github.com/user-attachments/assets/ddbfd71f-7baa-4d90-b7bd-9bb7d16082a6" height="40" />&nbsp;
   <img src="https://github.com/user-attachments/assets/2e18eaa4-7986-4cc0-b1ba-e13361bc515a" height="40" />&nbsp;
   <img src="https://github.com/user-attachments/assets/8c6596ec-864e-470e-839b-4e37b69c8f0d" height="40" />&nbsp;
