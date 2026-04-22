@@ -17,6 +17,8 @@
 <img  height="40" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/4c83fb5f-9263-4109-a823-d5c29d48d49f" />
 <img  height="40" alt="CSS3_logo svg" src="https://github.com/user-attachments/assets/0ead48e1-554a-4ea9-9197-fd3f07bd0f4f" />
 <img  height="40" alt="HTML" src="https://github.com/user-attachments/assets/ed8c1a53-5c96-4730-8956-f37e99c91f9e" />
+<img  height="40" alt="JS" src="https://github.com/user-attachments/assets/35540e09-9d5f-4d4f-b3b6-f60b85be3264" />
+
 
 <!--
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
@@ -29,6 +31,7 @@
 -->
 <br />
 <br />
+
 ### Softwares + Tools:
 
 <p align="left">
