@@ -20,9 +20,6 @@
 <img  height="40" alt="JS2" src="https://github.com/user-attachments/assets/04da5058-2a72-4242-b887-03b797721e83" />&nbsp;
 <img  height="40" alt="SQL" src="https://github.com/user-attachments/assets/558c0cdd-a111-4e56-bc78-edf881897541" />&nbsp;
 <img  height="40" alt="git2" src="https://github.com/user-attachments/assets/f590860e-9a8d-4dc7-8ab1-0d673b2b2ace" />&nbsp;
-
-
-<br />
 <br />
 
 ### Softwares + Tools:
