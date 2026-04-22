@@ -15,9 +15,10 @@
 <img  height="40" alt="C_Logo" src="https://github.com/user-attachments/assets/ae5ebe93-b8dd-47b3-970a-4188e96a741a" />
 <img  height="40" alt="ISO_C++_Logo svg" src="https://github.com/user-attachments/assets/620d5b7b-a77d-45d9-a385-6d2d551ed5f7" />
 <img  height="40" alt="Python-logo-notext svg" src="https://github.com/user-attachments/assets/4c83fb5f-9263-4109-a823-d5c29d48d49f" />
-<img  height="40" alt="CSS3_logo svg" src="https://github.com/user-attachments/assets/0ead48e1-554a-4ea9-9197-fd3f07bd0f4f" />
-<img  height="40" alt="HTML" src="https://github.com/user-attachments/assets/ed8c1a53-5c96-4730-8956-f37e99c91f9e" />
-<img  height="40" alt="JS" src="https://github.com/user-attachments/assets/35540e09-9d5f-4d4f-b3b6-f60b85be3264" />
+<img  height="40" alt="HTML2" src="https://github.com/user-attachments/assets/32969e42-422f-449d-9547-987748b06464" />
+<img  height="40" alt="CSS3" src="https://github.com/user-attachments/assets/80d9bb64-35f4-4715-aa58-738499229fd3" />
+<img  height="40" alt="JS2" src="https://github.com/user-attachments/assets/6496da9b-4173-4d78-b792-7dd07f7ab719" />
+
 
 
 <!--
