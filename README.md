@@ -4,8 +4,8 @@
       a student from London, pursuing MRes Design Engineering Research at Imperial
       College London's Dyson School of Design Engineering.
 
-      Currently looking at recycling methods for copper and silver from PV 
-      waste - Interested in software, electrical, and chemical engineering.
+      I'm currently researching sustainable recycling methods for copper and silver from PV 
+      waste - Interested in helping the planet and biodiversity in any way possible.
 
 ## 📁 My Work
 [View my Portfolio](https://github.com/BridgeOJ/Portfolio)
